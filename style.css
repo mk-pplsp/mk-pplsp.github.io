@@ -163,4 +163,7 @@ footer a:hover {
     .name{
         font-size:20px;
     }
+    footer a{
+        font-size: 10px;
+    }
 }
